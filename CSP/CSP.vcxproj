@@ -40,6 +40,9 @@
     <ClCompile Include="csp201912.cpp" />
     <ClCompile Include="csp202006.cpp" />
     <ClCompile Include="csp202009.cpp" />
+    <ClCompile Include="csp202012.cpp" />
+    <ClCompile Include="csp202104.cpp" />
+    <ClCompile Include="exp.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

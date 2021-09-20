@@ -78,5 +78,14 @@
     <ClCompile Include="csp202009.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="csp202012.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="csp202104.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
